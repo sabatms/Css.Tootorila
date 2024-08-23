@@ -1,0 +1,6 @@
+p{
+    background: pink;
+    /* padding :2rem */
+    padding : 10px 20px 30px 40px; 
+    border : 3px dashed darkblue;
+}
