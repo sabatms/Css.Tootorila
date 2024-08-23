@@ -1,0 +1,58 @@
+/* .bironi{
+    background-color:royalblue;
+    width:300px;
+    height:200px;
+}
+
+.daroni{
+    background-color:salmon;
+    width:70%;
+    height:50%;
+}
+
+h3{
+    font-size: 70px;
+    color: darkgreen;
+}
+
+.div{
+    font-size:10px;
+}
+
+.first{
+    font-size:2rem;
+}
+
+.second{
+    font-size :20px;
+}
+
+.h5{
+    background-color: pink;
+    width:50vw;
+    height:20vh;
+} */
+
+
+
+p{
+    color: Red;
+    font-size:40px;
+    font-weight: 10px
+}
+
+h2{
+    text-indent:2rem;
+}
+
+h3{
+    line-height: 2.5rem;
+}
+
+h4{
+    letter-spacing:20px;
+}
+h1{
+    word-spacing:40px;
+    text-transform: capitalize;
+}
